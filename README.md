@@ -1,2 +1,2 @@
 # youtube-recommedation
-You recommendation program
+You video recommendation app
