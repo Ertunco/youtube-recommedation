@@ -1,2 +1,2 @@
-# youtube-recommedation
+# YouTube-Video-Picker
 YouTube video recommendation app
